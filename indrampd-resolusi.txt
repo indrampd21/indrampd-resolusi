@@ -3,5 +3,7 @@ Indra Mpd Resolusi
 - Konsisten belajar pemograman
 - Menguasai beberapa framework PHP (Codeigniter dan Laravel)
 - Menguasai database
+- Menguasai JavaScript
 - Menjadi Fullstack Developer
 - Membuat sebuah project kecil
+- Membuat sebuah project besar
