@@ -3,7 +3,9 @@ Rencana Konten
 - Javascript
   * ES6
   * Frameork Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+- Python
+- Struktur Data Dasar
 - Framework PHP
   ^ Laravel
