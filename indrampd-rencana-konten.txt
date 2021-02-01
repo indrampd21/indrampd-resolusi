@@ -3,5 +3,7 @@ Rencana Konten
 - Javascript
   * ES6
   * Frameork Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - Framework PHP
+  ^ Laravel
