@@ -8,3 +8,4 @@ Rencana Konten
 - Python
 - Struktur Data Dasar
 - Framework PHP
+  ^ Laravel
